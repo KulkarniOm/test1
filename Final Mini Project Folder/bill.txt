@@ -1,0 +1,8 @@
+                          GROCERY MARKET
+         Your bill:
+
+                ITEM                 |            QUANTITY                 |           PRICE
+           Pineapple                 |                   2                 |             160
+
+         **** Total Bill: Rs.160 ****
+                             Visit again
